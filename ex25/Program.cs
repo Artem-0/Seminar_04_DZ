@@ -26,6 +26,5 @@ int NumberPower(int A, int B)
 
 int A = ReadIntAbs("Введите число A: ");
 int B = ReadIntAbs("Введите число B: ");
-NumberPower(A, B);
 WriteText("Число A в степени B равно: ");
 System.Console.WriteLine(NumberPower(A, B));

@@ -12,3 +12,4 @@ C:\Users\innap\OneDrive\Рабочий стол\Seminar_04_DZ\ex25\obj\Debug\net
 C:\Users\innap\OneDrive\Рабочий стол\Seminar_04_DZ\ex25\obj\Debug\net9.0\ex25.pdb
 C:\Users\innap\OneDrive\Рабочий стол\Seminar_04_DZ\ex25\obj\Debug\net9.0\ex25.genruntimeconfig.cache
 C:\Users\innap\OneDrive\Рабочий стол\Seminar_04_DZ\ex25\obj\Debug\net9.0\ref\ex25.dll
+C:\Users\innap\OneDrive\Рабочий стол\Seminar_04_DZ\ex25\obj\Debug\net9.0\ex25.sourcelink.json
